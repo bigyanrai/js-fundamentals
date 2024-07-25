@@ -1,0 +1,4 @@
+frontend            backend             Database
+Request             Response             Save
+Hit API             Create API
+                    CRUD
